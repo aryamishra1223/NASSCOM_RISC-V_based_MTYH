@@ -2,7 +2,7 @@
 
 This lecture includes the following:
 - high-level applications
-- operating systems
+- operating system
 - compilers
 - assembly language
 - hardware implementation
