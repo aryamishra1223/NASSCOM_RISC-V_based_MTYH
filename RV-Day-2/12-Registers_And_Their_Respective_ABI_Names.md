@@ -8,6 +8,14 @@ This lecture concludes the discussion on:
 - register encoding
 - ABI register naming
 
+---
+
+<img width="887" height="500" alt="Image" src="https://github.com/user-attachments/assets/1e6a53d5-e523-4e34-bf71-04a6d6ad82cf" />
+
+---
+
+<img width="887" height="500" alt="Image" src="https://github.com/user-attachments/assets/9edb632b-9c96-49bf-b7e1-3f9a37a76da4" />
+
 
 ---
 
