@@ -22,7 +22,13 @@ The instructor demonstrates:
 - observing pipeline flow
 - tracing computations.
 
+<img width="1853" height="961" alt="Image" src="https://github.com/user-attachments/assets/f5f0ab66-fe36-43f0-b96b-6b7bd97d52e2" />
 
+<img width="827" height="659" alt="Image" src="https://github.com/user-attachments/assets/2a2185e4-9da1-44c8-9554-84883f3767d8" />
+
+<img width="793" height="787" alt="Image" src="https://github.com/user-attachments/assets/8c0e3997-91f4-457c-88b0-831ea6c305d1" />
+
+<img width="1855" height="961" alt="Image" src="https://github.com/user-attachments/assets/b21c5b65-a778-452f-bd76-acee1f6788c8" />
 
 ---
 
