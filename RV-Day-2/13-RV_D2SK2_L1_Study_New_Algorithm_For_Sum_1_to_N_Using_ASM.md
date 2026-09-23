@@ -109,6 +109,12 @@ according to ISA instructions.
 
 ---
 
+<img width="887" height="500" alt="Image" src="https://github.com/user-attachments/assets/76258262-fd90-4d99-ada4-e9bc74f0336f" />
+
+<img width="887" height="500" alt="Image" src="https://github.com/user-attachments/assets/a36da84d-480b-41dd-b752-764bb69615a0" />
+
+---
+
 ## Key Takeaways
 
 After this lecture, the learner understands:
