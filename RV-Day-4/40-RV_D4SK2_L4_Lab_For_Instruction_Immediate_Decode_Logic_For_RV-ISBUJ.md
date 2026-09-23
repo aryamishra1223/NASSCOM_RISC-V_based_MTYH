@@ -48,15 +48,10 @@ Sign Extension →
 32-bit Immediate
 ```
 
-![Immediate Decode](images/lec40/Immediate_Decode.png)
-
-![Immediate Decode TLV](images/lec40/Immediate_Decode_TLV.png)
-
-[Click Here To Open the Decode implementation in Makerchip](https://makerchip.com/v132/ide/~0ADf9hjY/p-0vghED)
 
 ---
 
-<img width="1855" height="954" alt="Image" src="https://github.com/user-attachments/assets/ae7c9d7a-9e0f-4e69-81bf-534127c4a9d4" /> 
+<img width="1855" height="954" alt="Image" src="https://github.com/user-attachments/assets/351fe365-75ab-4128-8781-825e7615f167" />
 
 ---
 
