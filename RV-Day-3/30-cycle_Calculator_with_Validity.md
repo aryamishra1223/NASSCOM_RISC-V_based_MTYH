@@ -62,7 +62,7 @@ It's no longer necessary to explicitly zero out the output. Invalid cycles can s
 - garbage values
 - don't care values.
 
-
+<img width="1855" height="961" alt="Image" src="https://github.com/user-attachments/assets/fc5dc41c-460c-49c4-b6c1-f672b68d6af7" />
 
 
 ---
