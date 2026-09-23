@@ -115,6 +115,7 @@ Meaning - current output feeds future computation
 
 As always in sequential logic, we need a reset value. The reset acts like a calculator clear button. Reset initializes calculator output to 0 before sequential operations begin.
 
+<img width="1853" height="961" alt="Image" src="https://github.com/user-attachments/assets/ded678c0-4cda-4896-b367-d8c3e9608206" />
 
 ---
 
