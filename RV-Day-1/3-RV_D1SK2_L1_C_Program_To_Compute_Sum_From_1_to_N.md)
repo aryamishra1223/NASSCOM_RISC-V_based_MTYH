@@ -105,6 +105,10 @@ Even a simple C program ultimately becomes hardware operations inside the CPU.
 
 ---
 
+<img width="1538" height="783" alt="Image" src="https://github.com/user-attachments/assets/227ea27f-a1bd-4b54-9093-f0721e28cdd4" />
+
+---
+
 # Key Takeaways
 
 After this lecture, the learner understands:
@@ -119,4 +123,7 @@ This prepares the learner for:
 - RISC-V ISA and GCC compilation
 - assembly analysis
 - ISA understanding
+
+---
+
 
