@@ -1,7 +1,9 @@
 ## RV Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain
+ISA stands for instruction set architecture
 
 ### D1SK1 - Introduction to RISC-V basic keywords
 - [0-RV_D1SK1_L1_Introduction](day1/0-RV_D1SK1_L1_Introduction.md)
+  #### Topics Covered
 - [1-RV_D1SK1_L2_From_Apps_To_Hardware](day1/1-RV_D1SK1_L2_From_Apps_To_Hardware.md)
 - [2-RV_D1SK1_L3_Detailed_Description_Of_Course_Content](day1/2-RV_D1SK1_L3_Detailed_Description_Of_Course_Content.md)
 
