@@ -69,6 +69,7 @@ If no MEM operation requested, then memory recirculates previous value. We take 
 
 If we're doing a memory operation, then we want to grab the value of output and capture it in the memory. The memory captures output from two cycles ago.
 
+<img width="1855" height="961" alt="Image" src="https://github.com/user-attachments/assets/29adce8e-59ad-4b9b-a038-2ec6d124a5ed" />
 
 ---
 
