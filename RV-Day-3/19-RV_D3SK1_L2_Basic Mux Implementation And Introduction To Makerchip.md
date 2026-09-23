@@ -181,6 +181,10 @@ This may especially be important when viewing someone else’s project.
 
 
 
+<img width="966" height="962" alt="Image" src="https://github.com/user-attachments/assets/92361d9b-38d7-4cac-b4a3-baf15f25002c" />
+
+<img width="966" height="962" alt="Image" src="https://github.com/user-attachments/assets/762b4a08-fc11-4574-9a5a-33c85b49c2b5" />
+
 
 ---
 
