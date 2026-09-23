@@ -10,7 +10,10 @@ This lecture discusses:
 - pipeline error aggregation logic
 - multi-stage error propagation
 
+<img width="1853" height="961" alt="Image" src="https://github.com/user-attachments/assets/61340d53-0359-465d-b2c5-34502a0383a1" />
+
 ---
+
 ## Pipe Signal Naming
 
 Pipe signals begin with dollar sign ($)
@@ -42,10 +45,10 @@ The lecture introduces three naming styles:
 | Style                      | Meaning                |
 | -------------------------- | ---------------------- |
 | lowercase_with_underscores | Pipe signals           |
-| PascalCase                 | State signals          |
+| Pascal Case                 | State signals          |
 | UPPERCASE_WITH_UNDERSCORES |  Keywords              |
 
-## umbers in Identifiers
+## Numbers in Identifiers
 
 Numbers are allowed only at end of tokens.
 Valid example:
@@ -57,6 +60,7 @@ base64
 
  <img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/0b2e0cf1-4dce-40bd-9555-d3f8a235073b" />
 
+---
 
 # Hardware Perspective
 
