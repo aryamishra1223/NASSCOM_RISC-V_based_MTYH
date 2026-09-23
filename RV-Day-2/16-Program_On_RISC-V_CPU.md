@@ -53,9 +53,7 @@ CPU Executes Instructions
       ↓
 Display Final Output
 ```
-
-![Execution Flow](images/lec16/Execution_Flow.png)
-
+<img width="889" height="490" alt="Image" src="https://github.com/user-attachments/assets/0e8acf8d-e369-4f15-8880-6274252fa60a" />
 ---
 
 # RISC-V CPU Core
@@ -142,8 +140,6 @@ These bitstreams:
 - get loaded into memory
 - executed by CPU
 
-![Hex File](images/lec16/Hex_File.png)
-
 ---
 
 # Icarus Verilog
@@ -186,9 +182,7 @@ Purpose:
 
 # Progrm Output
 
-The lecture demonstrates outputs like:
-
-![Program Output](images/lec16/Program_Output.png)
+The lecture demonstrates outputs like
 
 demonstrating successful CPU execution.
 
