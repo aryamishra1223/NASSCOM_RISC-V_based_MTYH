@@ -19,6 +19,14 @@ The lecture explains:
 
 ---
 
+<img width="889" height="490" alt="Image" src="https://github.com/user-attachments/assets/53a4b719-38e7-458b-90af-eca148a9ece7" />
+
+<img width="889" height="490" alt="Image" src="https://github.com/user-attachments/assets/6c55da59-9fe0-4023-9bbb-92f32a065fac" />
+
+<img width="889" height="490" alt="Image" src="https://github.com/user-attachments/assets/6e8b3bee-790a-41ed-9d5d-b1fcc5ed5b51" />
+
+---
+
 # Logic Gates
 
 The lecture introduces that logic gates are the fundamental building blocks of digital circuits. All digital circuits are ultimately constructed using logic gates.
