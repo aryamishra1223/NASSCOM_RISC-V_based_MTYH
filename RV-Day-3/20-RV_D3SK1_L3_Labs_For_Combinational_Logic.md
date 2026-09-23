@@ -47,6 +47,9 @@ The next exercise asks students to implement a multiplexer. We start with a sing
 
 We then design a Simple Calculator.
 
+<img width="1853" height="961" alt="Image" src="https://github.com/user-attachments/assets/0bc3773a-6f8c-41ef-a3d9-89235d6560a7" />
+
+
 ## Calculator Functionality
 
 The calculator performs:
