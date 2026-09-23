@@ -49,7 +49,7 @@ A given transaction will be reset or not.
 
 Pipeline state must remain consistent across transactions.
 
-![Updated Waveform And Diagram](images/lec29/Updated_Waveform_And_Diagram.png)
+<img width="1855" height="961" alt="Image" src="https://github.com/user-attachments/assets/bb1e6337-f5cd-4db0-b2ad-82dd767fec7f" />
 
 ---
 
